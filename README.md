@@ -14,7 +14,7 @@ Learning about HTML, CSS, Bootstrap, Javascript, Jquery, PHP, AJAX, ...
 |STT| MSSV      | Họ và Tên       |Chức Vụ    | Github                                                  | Email                   |
 |---|:---------:| ---------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1 | 19521676  | Trương Quốc Bình  |Nhóm trưởng|[noeffortnomoney](https://github.com/noeffortnomoney)  |19521270@gm.uit.edu.vn   |
-| 2 | 19521383  | Lê Đình Đức |Thành viên |[]()            |19521383@gm.uit.edu.vn   |
+| 2 | 19521383  | Lê Đình Đức |Thành viên |[]()            |19521372@gm.uit.edu.vn   |
 | 3 | 19521699  | Nguyễn Viết Trường   |Thành viên |[]()        |19522443@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
@@ -25,13 +25,11 @@ Learning about HTML, CSS, Bootstrap, Javascript, Jquery, PHP, AJAX, ...
 * **Giảng viên**: ThS.Mai Xuân Hùng
 
 ## THỰC HÀNH
-### Assignment 1: Lập trình web tĩnh HTML5 và CSS3.
+### Assignment 1: Lập trình web tĩnh HTML và HTML5.
   - Thư mục: [Lab 01.](/Practice/Lab_01)
-  - Demo: [Web Nature Tour.](https://ducducqn123.github.io/Web-Nature-Tour/)
 
 ### Assignment 2: Lập trình web với Javascript và JQuery.
   - Thư mục: [Lab 02.](/Practice/Lab_02)
-  - Demo: [Website thực hiện chức năng tính tiền.](https://ducducqn123.github.io/Pay-for-food-in-a-restaurant/)
 
 ### Assignment 3: Ngôn ngữ lập trình PHP.
   - Thư mục: [Lab 03.](/Practice/Lab_03)
