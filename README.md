@@ -41,7 +41,7 @@ Learning about HTML, CSS, Bootstrap, Javascript, Jquery, PHP, AJAX, ...
   - Thư mục: [Lab 05.](/Practice/Lab_05)
 
 ## ĐỒ ÁN CUỐI KÌ
-- Front-end: HTML, CSS, Javascript, VueJS, Laravel.
+- Front-end: HTML, CSS, Javascript, 
 - Back-end: Laravel, MySQL.
 - File report: [Final Report.](Final_Project/Final_Report.pdf)
 - Source Code and Installation Instructions: [Source Code](https://github.com/ducducqn123/Website-Selling-Food)
