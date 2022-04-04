@@ -45,7 +45,7 @@ Learning about HTML, CSS, Bootstrap, Javascript, Jquery, PHP, AJAX, ...
 - Back-end: Laravel, MySQL.
 - File report: [Final Report.](Final_Project/Final_Report.pdf)
 - Source Code and Installation Instructions: [Source Code](https://github.com/ducducqn123/Website-Selling-Food)
-<p align='center'><img style="height: 800px" src="https://github.com/ducducqn123/Website-Selling-Food/blob/ce4ab91b045d777d82beee1935e5df8eed736797/demo.png"></p>
+
 
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2022 - Trương Quốc Bình`
