@@ -1,1 +1,161 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BT4</title>
+    <link rel="stylesheet" href="bt4.css">
+</head>
+<body>
+
+    <div class="wrapper">
+
+        <div class="picture">
+            <img src="https://mega.com.vn/media/product/19127_laptop_lg_gram_2021_14z90p_g_ah75a5_den.png" alt="">
+        </div>
+
+        <table>
+            <tr>
+                <th colspan="2" class="title">
+                    <strong>
+                        Các thông số kỹ thuật
+                    </strong>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <strong>
+                        Tên linh kiện
+                    </strong>
+                </th>
+                <th>
+                    <strong>
+                        Thông số
+                    </strong>
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    <strong>
+                        CPU
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        Intel, Core i5 Haswell
+                    </strong>
+                </td>
+            </tr>
+            <tr class="even">
+                <td>
+                    <strong>
+                        Ram
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        DDR3L, 8GB
+                    </strong>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>
+                        Đĩa cứng
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        SSD, 512 GB
+                    </strong>
+                </td>
+            </tr>
+            <tr class="even">
+                <td>
+                    <strong>
+                        Màn hình rộng
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        13.3 inch
+                    </strong>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>
+                        HĐH theo máy
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        MAC OS X
+                    </strong>
+                </td>
+            </tr>
+            <tr class="even">
+                <td rowspan="2">
+                    <strong>
+                        Đồ họa
+                    </strong>
+                </td>
+                <td>
+                    <strong>
+                        Intel© Iris TM Pro 5200
+                    </strong>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>
+                        share
+                    </strong>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></body>
+
+</html>
