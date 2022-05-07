@@ -1,0 +1,29 @@
+html,body {
+    height: 100%;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.picture {
+    float: left;
+    width: 50%;
+}
+img {
+    width: 100%;
+}
+table {
+    width: 32%;
+    background-color: #FFCCFF;
+}
+table,th,td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    padding: 5px;
+}
+.title {
+    color: #3300FF;
+    font-size: 16px;
+}
+.even {
+    background-color: #CCFFFF;
+}
