@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            *{
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+                
+                color: #333;
+            }
+            .container{
+                margin: 0 auto;
+                width: fit-content;
+            }
+            h4{
+                margin-top: 10px;
+                text-align: center;
+                margin-bottom: 10px;
+                color: blue;
+            }
+            form{
+                width: auto;
+            }
+            table{
+                
+                border: 1px solid #ccc;
+            }
+            tr, td{
+               border: 1px solid #ccc;
+               width:50%;
+            }
+
+            
+            input{
+                padding: 2px;
+                border-radius: 0%;
+                border: 1px solid #ccc;
+                
+            }
+            input[name="name"]{
+                width: 100%;
+            }
+            input[type="submit"]{
+                display: block;
+                margin: 2px auto;
+                color: #333;
+                border-radius: 40%;
+            }
+            
+            input[name="password"]{
+                width: 100%;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h4>
+                Đăng ký tài khoản đăng nhập hệ thống
+            </h4>
+            <hr style="width:500px; border-top: green 2px solid; margin: 10px auto">
+            <form>
+                <table>
+                    <tr>
+                        <td>
+                            <input type="text" name="name" placeholder="Họ">
+                        </td>
+                        <td>
+                            <input type="text" name="name" placeholder="Tên">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                          <input type="password" name="password" placeholder="Nhập mật khẩu">
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                      <td colspan="2">
+                        <input type="password" name="password" placeholder="Nhập lại mật khẩu">
+                    </td>
+                    </tr>
+                    <tr>
+              
+                        <td colspan="2">
+                            Ngày tháng năm sinh
+                            <input type="date" name="birth" placeholder="mm/dd/yyyy">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                          Tỉnh thành
+                          <input type="datalist">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" style="text-align: center;">
+                            Giới tính
+                        </td>
+                        <td>
+                            <label>
+                                Nam
+                                <input type="radio"  name="gender" value="male">
+                            </label>
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                      <td>
+                        <label>
+                            Nữ
+                            <input type="radio" name="gender" value="female">
+                        </label>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <input type="submit" value="Đăng ký">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html>
