@@ -26,7 +26,7 @@ Learning about HTML, CSS, Bootstrap, Javascript, Jquery, PHP, AJAX, ...
 
 ## THỰC HÀNH
 ### Assignment 1: Lập trình web tĩnh HTML và HTML5.
-  - Thư mục: [Lab 01.](/Practice/Lab_01)
+  - Thư mục: [Lab 01.](/Thực hành/Lab_01)
 
 ### Assignment 2: Lập trình web với Javascript và JQuery.
   - Thư mục: [Lab 02.](/Practice/Lab_02)
